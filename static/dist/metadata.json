@@ -1,23 +1,8 @@
 [
   {
-    "cid": "CS685",
-    "cname": "DATA MINING",
-    "link": "https://drive.google.com/drive/folders/1SEAnjUS5vFvViQ2Gui2B0OMgiUmIJ2W5"
-  },
-  {
-    "cid": "CS350",
-    "cname": "PRINCIPLES OF PROGRAMMING LANGAUGES",
-    "link": "https://drive.google.com/drive/folders/1WHU8xSB2Ilju45cJ_lppQWgdw2SlcWjg"
-  },
-  {
-    "cid": "CS425",
-    "cname": "COMPUTER NETWORKS",
-    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
-  },
-  {
-    "cid": "PHY473",
-    "cname": "COMPUTATIONAL PHYSICS",
-    "link": "https://drive.google.com/drive/folders/1fYOJ_7hZowOEUU7q-9Zw-nV1qWi-97WO"
+    "cid": "CS771",
+    "cname": "INTRODUCTION TO MACHINE LEARNING",
+    "link": "https://drive.google.com/drive/folders/1S0498DdXBGpU0pX-i_D6bRLRdgBxbhf-"
   },
   {
     "cid": "CE451",
@@ -25,8 +10,23 @@
     "link": "https://drive.google.com/drive/folders/1rguA9UzHdwhebCJhd4YLtmDQePld1350"
   },
   {
-    "cid": "CS771",
-    "cname": "INTRODUCTION TO MACHINE LEARNING",
-    "link": "https://drive.google.com/drive/folders/1S0498DdXBGpU0pX-i_D6bRLRdgBxbhf-"
+    "cid": "PHY473",
+    "cname": "COMPUTATIONAL PHYSICS",
+    "link": "https://drive.google.com/drive/folders/1fYOJ_7hZowOEUU7q-9Zw-nV1qWi-97WO"
+  },
+  {
+    "cid": "CS425",
+    "cname": "COMPUTER NETWORKS",
+    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
+  },
+  {
+    "cid": "CS350",
+    "cname": "PRINCIPLES OF PROGRAMMING LANGAUGES",
+    "link": "https://drive.google.com/drive/folders/1WHU8xSB2Ilju45cJ_lppQWgdw2SlcWjg"
+  },
+  {
+    "cid": "CS685",
+    "cname": "DATA MINING",
+    "link": "https://drive.google.com/drive/folders/1SEAnjUS5vFvViQ2Gui2B0OMgiUmIJ2W5"
   }
 ]

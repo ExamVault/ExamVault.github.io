@@ -1,8 +1,13 @@
 [
   {
-    "cid": "CS425",
-    "cname": "COMPUTER NETWORKS",
-    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
+    "cid": "CS771",
+    "cname": "INTRODUCTION TO MACHINE LEARNING",
+    "link": "https://drive.google.com/drive/folders/1S0498DdXBGpU0pX-i_D6bRLRdgBxbhf-"
+  },
+  {
+    "cid": "CE451",
+    "cname": "APPLICATION OF GEOTECHNICAL ENGINEERING",
+    "link": "https://drive.google.com/drive/folders/1rguA9UzHdwhebCJhd4YLtmDQePld1350"
   },
   {
     "cid": "PHY473",
@@ -10,8 +15,8 @@
     "link": "https://drive.google.com/drive/folders/1fYOJ_7hZowOEUU7q-9Zw-nV1qWi-97WO"
   },
   {
-    "cid": "CE451",
-    "cname": "APPLICATION OF GEOTECHNICAL ENGINEERING",
-    "link": "https://drive.google.com/drive/folders/1rguA9UzHdwhebCJhd4YLtmDQePld1350"
+    "cid": "CS425",
+    "cname": "COMPUTER NETWORKS",
+    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
   }
 ]

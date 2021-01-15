@@ -1,38 +1,23 @@
 [
   {
-    "cid": "MSE682",
-    "cname": "COMPUTER SIMULATIONS IN MATERIALS SCIENCE",
-    "link": "https://drive.google.com/drive/folders/11secVIj0-F-eS9hxgi4RMHsfjMPRzzFE"
+    "cid": "ECO502",
+    "cname": "APPLIED GAME THEORY",
+    "link": "https://drive.google.com/drive/folders/1ubRMKSuyICWzNvxs7Tb-mCIW54NbKcr_"
   },
   {
-    "cid": "MBA663",
-    "cname": "TOTAL QUALITY MANAGEMENT",
-    "link": "https://drive.google.com/drive/folders/1FDQW3xombbQaiLWqDkdbOChjY0nGJlOb"
+    "cid": "CHE221",
+    "cname": "CHEMICAL ENGINEERING THERMODYNAMICS",
+    "link": "https://drive.google.com/drive/folders/1qVn7hs4uPtZkl3ogPb1wp4jysBpmiKIu"
   },
   {
-    "cid": "CS771",
-    "cname": "INTRODUCTION TO MACHINE LEARNING",
-    "link": "https://drive.google.com/drive/folders/1S0498DdXBGpU0pX-i_D6bRLRdgBxbhf-"
+    "cid": "HSO201",
+    "cname": "APPLIED PROBABILITY AND STATISTICS",
+    "link": "https://drive.google.com/drive/folders/1bN5KOPDXMR6KTZhas0QEczhi5vRWwwXw"
   },
   {
-    "cid": "CE451",
-    "cname": "APPLICATION OF GEOTECHNICAL ENGINEERING",
-    "link": "https://drive.google.com/drive/folders/1rguA9UzHdwhebCJhd4YLtmDQePld1350"
-  },
-  {
-    "cid": "PHY473",
-    "cname": "COMPUTATIONAL PHYSICS",
-    "link": "https://drive.google.com/drive/folders/1fYOJ_7hZowOEUU7q-9Zw-nV1qWi-97WO"
-  },
-  {
-    "cid": "CS425",
-    "cname": "COMPUTER NETWORKS",
-    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
-  },
-  {
-    "cid": "CS350",
-    "cname": "PRINCIPLES OF PROGRAMMING LANGAUGES",
-    "link": "https://drive.google.com/drive/folders/1WHU8xSB2Ilju45cJ_lppQWgdw2SlcWjg"
+    "cid": "MTH511",
+    "cname": "STATISTICAL SIMULATION AND DATA ANALYSIS",
+    "link": "https://drive.google.com/drive/folders/1oCYr5qD7uEQqrWmCjdnNqHRctK8xuACX"
   },
   {
     "cid": "CS685",
@@ -40,8 +25,38 @@
     "link": "https://drive.google.com/drive/folders/1SEAnjUS5vFvViQ2Gui2B0OMgiUmIJ2W5"
   },
   {
-    "cid": "MTH511",
-    "cname": "STATISTICAL SIMULATION AND DATA ANALYSIS",
-    "link": "https://drive.google.com/drive/folders/1oCYr5qD7uEQqrWmCjdnNqHRctK8xuACX"
+    "cid": "CS350",
+    "cname": "PRINCIPLES OF PROGRAMMING LANGAUGES",
+    "link": "https://drive.google.com/drive/folders/1WHU8xSB2Ilju45cJ_lppQWgdw2SlcWjg"
+  },
+  {
+    "cid": "CS425",
+    "cname": "COMPUTER NETWORKS",
+    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
+  },
+  {
+    "cid": "PHY473",
+    "cname": "COMPUTATIONAL PHYSICS",
+    "link": "https://drive.google.com/drive/folders/1fYOJ_7hZowOEUU7q-9Zw-nV1qWi-97WO"
+  },
+  {
+    "cid": "CE451",
+    "cname": "APPLICATION OF GEOTECHNICAL ENGINEERING",
+    "link": "https://drive.google.com/drive/folders/1rguA9UzHdwhebCJhd4YLtmDQePld1350"
+  },
+  {
+    "cid": "CS771",
+    "cname": "INTRODUCTION TO MACHINE LEARNING",
+    "link": "https://drive.google.com/drive/folders/1S0498DdXBGpU0pX-i_D6bRLRdgBxbhf-"
+  },
+  {
+    "cid": "MBA663",
+    "cname": "TOTAL QUALITY MANAGEMENT",
+    "link": "https://drive.google.com/drive/folders/1FDQW3xombbQaiLWqDkdbOChjY0nGJlOb"
+  },
+  {
+    "cid": "MSE682",
+    "cname": "COMPUTER SIMULATIONS IN MATERIALS SCIENCE",
+    "link": "https://drive.google.com/drive/folders/11secVIj0-F-eS9hxgi4RMHsfjMPRzzFE"
   }
 ]

@@ -1,123 +1,13 @@
 [
   {
-    "cid": "MTH101",
-    "cname": "MATHEMATICS I",
-    "link": "https://drive.google.com/drive/folders/1y76l2f1tIcjZnNA1bhYHLZ7MrOGsMtU4"
+    "cid": "CS345",
+    "cname": "ALGORITHMS-II",
+    "link": "https://drive.google.com/drive/folders/1ZuRjvfHvBvKBlEwNYkXkZGLLAbf6MssC"
   },
   {
-    "cid": "CS203",
-    "cname": "MATHEMATICS FOR COMPUTER SCIENCE -III",
-    "link": "https://drive.google.com/drive/folders/1japsoOZWhT0iJ34jyXGFerj8u2ZoJWjP"
-  },
-  {
-    "cid": "CS330",
-    "cname": "OPERATING SYSTEMS",
-    "link": "https://drive.google.com/drive/folders/1aKVwQYPCTK1bvMPNAKtwv4KDxkf4tSmD"
-  },
-  {
-    "cid": "CS220",
-    "cname": "COMPUTER ORGANIZATION",
-    "link": "https://drive.google.com/drive/folders/1aWG1F2Ffo9JoMFPA2_ob2TFAWJC8Qn9S"
-  },
-  {
-    "cid": "ENG744",
-    "cname": "DOCUMENTARY FILM-HISTORY & THEORY",
-    "link": "https://drive.google.com/drive/folders/1p4yoqxv-fta9-OyuQYyxM4MdnfzTIsKX"
-  },
-  {
-    "cid": "CS335",
-    "cname": "COMPILER DESIGN",
-    "link": "https://drive.google.com/drive/folders/12rzesCa86HB6RFxaGJXcXD2Vx7jc9giT"
-  },
-  {
-    "cid": "ECO502",
-    "cname": "APPLIED GAME THEORY",
-    "link": "https://drive.google.com/drive/folders/1ubRMKSuyICWzNvxs7Tb-mCIW54NbKcr_"
-  },
-  {
-    "cid": "CHE221",
-    "cname": "CHEMICAL ENGINEERING THERMODYNAMICS",
-    "link": "https://drive.google.com/drive/folders/1qVn7hs4uPtZkl3ogPb1wp4jysBpmiKIu"
-  },
-  {
-    "cid": "HSO201",
-    "cname": "APPLIED PROBABILITY AND STATISTICS",
-    "link": "https://drive.google.com/drive/folders/1bN5KOPDXMR6KTZhas0QEczhi5vRWwwXw"
-  },
-  {
-    "cid": "MTH511",
-    "cname": "STATISTICAL SIMULATION AND DATA ANALYSIS",
-    "link": "https://drive.google.com/drive/folders/1oCYr5qD7uEQqrWmCjdnNqHRctK8xuACX"
-  },
-  {
-    "cid": "CS685",
-    "cname": "DATA MINING",
-    "link": "https://drive.google.com/drive/folders/1SEAnjUS5vFvViQ2Gui2B0OMgiUmIJ2W5"
-  },
-  {
-    "cid": "CS350",
-    "cname": "PRINCIPLES OF PROGRAMMING LANGAUGES",
-    "link": "https://drive.google.com/drive/folders/1WHU8xSB2Ilju45cJ_lppQWgdw2SlcWjg"
-  },
-  {
-    "cid": "CS425",
-    "cname": "COMPUTER NETWORKS",
-    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
-  },
-  {
-    "cid": "PHY473",
-    "cname": "COMPUTATIONAL PHYSICS",
-    "link": "https://drive.google.com/drive/folders/1fYOJ_7hZowOEUU7q-9Zw-nV1qWi-97WO"
-  },
-  {
-    "cid": "CE451",
-    "cname": "APPLICATION OF GEOTECHNICAL ENGINEERING",
-    "link": "https://drive.google.com/drive/folders/1rguA9UzHdwhebCJhd4YLtmDQePld1350"
-  },
-  {
-    "cid": "CS771",
-    "cname": "INTRODUCTION TO MACHINE LEARNING",
-    "link": "https://drive.google.com/drive/folders/1S0498DdXBGpU0pX-i_D6bRLRdgBxbhf-"
-  },
-  {
-    "cid": "MBA663",
-    "cname": "TOTAL QUALITY MANAGEMENT",
-    "link": "https://drive.google.com/drive/folders/1FDQW3xombbQaiLWqDkdbOChjY0nGJlOb"
-  },
-  {
-    "cid": "MSE682",
-    "cname": "COMPUTER SIMULATIONS IN MATERIALS SCIENCE",
-    "link": "https://drive.google.com/drive/folders/11secVIj0-F-eS9hxgi4RMHsfjMPRzzFE"
-  },
-  {
-    "cid": "CS641",
-    "cname": "MODERN CRYPTOLOGY",
-    "link": "https://drive.google.com/drive/folders/124baciBJ3Iz1e9Ou5kiNEjvRzxEpJ8A4"
-  },
-  {
-    "cid": "ESO207",
-    "cname": "DATA STRUCTURE & ALGORITHM",
-    "link": "https://drive.google.com/drive/folders/1X1MLtqfnHW4RO38ul7795GS8BtnJD_8E"
-  },
-  {
-    "cid": "CS783",
-    "cname": "VISUAL RECOGNITION",
-    "link": "https://drive.google.com/drive/folders/1LgyLIVywFQVoCISi-XDR7rJTJAlG5AOD"
-  },
-  {
-    "cid": "CS628",
-    "cname": "COMPUTER SYSTEMS SECURITY",
-    "link": "https://drive.google.com/drive/folders/1JUWc_mL95_IyvvoGy_WrHZZh8oh2PpMR"
-  },
-  {
-    "cid": "CS315",
-    "cname": "PRINCIPLES OF DATA BASE SYSTEMS",
-    "link": "https://drive.google.com/drive/folders/1yK8M04tE169jTS5OCcTGCvd1R7fX1Uqh"
-  },
-  {
-    "cid": "CS201",
-    "cname": "DISCRETE MATHEMATICS",
-    "link": "https://drive.google.com/drive/folders/1sCXtiy5_eT2Gza73mbkgFNuGkTm54cHZ"
+    "cid": "CS671",
+    "cname": "INTRODUCTION TO NATURAL LANGUAGE PROCESSING",
+    "link": "https://drive.google.com/drive/folders/1EE8wcseevGcnhJ-7z1wPGXwUbM9MbXlZ"
   },
   {
     "cid": "CS202",
@@ -125,8 +15,123 @@
     "link": "https://drive.google.com/drive/folders/1q5eduDMpWegAwO48cG3_yLubw0sKfDyC"
   },
   {
-    "cid": "CS671",
-    "cname": "INTRODUCTION TO NATURAL LANGUAGE PROCESSING",
-    "link": "https://drive.google.com/drive/folders/1EE8wcseevGcnhJ-7z1wPGXwUbM9MbXlZ"
+    "cid": "CS201",
+    "cname": "DISCRETE MATHEMATICS",
+    "link": "https://drive.google.com/drive/folders/1sCXtiy5_eT2Gza73mbkgFNuGkTm54cHZ"
+  },
+  {
+    "cid": "CS315",
+    "cname": "PRINCIPLES OF DATA BASE SYSTEMS",
+    "link": "https://drive.google.com/drive/folders/1yK8M04tE169jTS5OCcTGCvd1R7fX1Uqh"
+  },
+  {
+    "cid": "CS628",
+    "cname": "COMPUTER SYSTEMS SECURITY",
+    "link": "https://drive.google.com/drive/folders/1JUWc_mL95_IyvvoGy_WrHZZh8oh2PpMR"
+  },
+  {
+    "cid": "CS783",
+    "cname": "VISUAL RECOGNITION",
+    "link": "https://drive.google.com/drive/folders/1LgyLIVywFQVoCISi-XDR7rJTJAlG5AOD"
+  },
+  {
+    "cid": "ESO207",
+    "cname": "DATA STRUCTURE & ALGORITHM",
+    "link": "https://drive.google.com/drive/folders/1X1MLtqfnHW4RO38ul7795GS8BtnJD_8E"
+  },
+  {
+    "cid": "CS641",
+    "cname": "MODERN CRYPTOLOGY",
+    "link": "https://drive.google.com/drive/folders/124baciBJ3Iz1e9Ou5kiNEjvRzxEpJ8A4"
+  },
+  {
+    "cid": "MSE682",
+    "cname": "COMPUTER SIMULATIONS IN MATERIALS SCIENCE",
+    "link": "https://drive.google.com/drive/folders/11secVIj0-F-eS9hxgi4RMHsfjMPRzzFE"
+  },
+  {
+    "cid": "MBA663",
+    "cname": "TOTAL QUALITY MANAGEMENT",
+    "link": "https://drive.google.com/drive/folders/1FDQW3xombbQaiLWqDkdbOChjY0nGJlOb"
+  },
+  {
+    "cid": "CS771",
+    "cname": "INTRODUCTION TO MACHINE LEARNING",
+    "link": "https://drive.google.com/drive/folders/1S0498DdXBGpU0pX-i_D6bRLRdgBxbhf-"
+  },
+  {
+    "cid": "CE451",
+    "cname": "APPLICATION OF GEOTECHNICAL ENGINEERING",
+    "link": "https://drive.google.com/drive/folders/1rguA9UzHdwhebCJhd4YLtmDQePld1350"
+  },
+  {
+    "cid": "PHY473",
+    "cname": "COMPUTATIONAL PHYSICS",
+    "link": "https://drive.google.com/drive/folders/1fYOJ_7hZowOEUU7q-9Zw-nV1qWi-97WO"
+  },
+  {
+    "cid": "CS425",
+    "cname": "COMPUTER NETWORKS",
+    "link": "https://drive.google.com/drive/folders/1d53jiugy2_UHNaOJAl8DrLZfJru2p9fX"
+  },
+  {
+    "cid": "CS350",
+    "cname": "PRINCIPLES OF PROGRAMMING LANGAUGES",
+    "link": "https://drive.google.com/drive/folders/1WHU8xSB2Ilju45cJ_lppQWgdw2SlcWjg"
+  },
+  {
+    "cid": "CS685",
+    "cname": "DATA MINING",
+    "link": "https://drive.google.com/drive/folders/1SEAnjUS5vFvViQ2Gui2B0OMgiUmIJ2W5"
+  },
+  {
+    "cid": "MTH511",
+    "cname": "STATISTICAL SIMULATION AND DATA ANALYSIS",
+    "link": "https://drive.google.com/drive/folders/1oCYr5qD7uEQqrWmCjdnNqHRctK8xuACX"
+  },
+  {
+    "cid": "HSO201",
+    "cname": "APPLIED PROBABILITY AND STATISTICS",
+    "link": "https://drive.google.com/drive/folders/1bN5KOPDXMR6KTZhas0QEczhi5vRWwwXw"
+  },
+  {
+    "cid": "CHE221",
+    "cname": "CHEMICAL ENGINEERING THERMODYNAMICS",
+    "link": "https://drive.google.com/drive/folders/1qVn7hs4uPtZkl3ogPb1wp4jysBpmiKIu"
+  },
+  {
+    "cid": "ECO502",
+    "cname": "APPLIED GAME THEORY",
+    "link": "https://drive.google.com/drive/folders/1ubRMKSuyICWzNvxs7Tb-mCIW54NbKcr_"
+  },
+  {
+    "cid": "CS335",
+    "cname": "COMPILER DESIGN",
+    "link": "https://drive.google.com/drive/folders/12rzesCa86HB6RFxaGJXcXD2Vx7jc9giT"
+  },
+  {
+    "cid": "ENG744",
+    "cname": "DOCUMENTARY FILM-HISTORY & THEORY",
+    "link": "https://drive.google.com/drive/folders/1p4yoqxv-fta9-OyuQYyxM4MdnfzTIsKX"
+  },
+  {
+    "cid": "CS220",
+    "cname": "COMPUTER ORGANIZATION",
+    "link": "https://drive.google.com/drive/folders/1aWG1F2Ffo9JoMFPA2_ob2TFAWJC8Qn9S"
+  },
+  {
+    "cid": "CS330",
+    "cname": "OPERATING SYSTEMS",
+    "link": "https://drive.google.com/drive/folders/1aKVwQYPCTK1bvMPNAKtwv4KDxkf4tSmD"
+  },
+  {
+    "cid": "CS203",
+    "cname": "MATHEMATICS FOR COMPUTER SCIENCE -III",
+    "link": "https://drive.google.com/drive/folders/1japsoOZWhT0iJ34jyXGFerj8u2ZoJWjP"
+  },
+  {
+    "cid": "MTH101",
+    "cname": "MATHEMATICS I",
+    "link": "https://drive.google.com/drive/folders/1y76l2f1tIcjZnNA1bhYHLZ7MrOGsMtU4"
   }
 ]

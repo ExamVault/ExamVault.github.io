@@ -1,5 +1,25 @@
 [
   {
+    "cid": "MTH204",
+    "cname": "ABSTRACT ALGEBRA",
+    "link": "https://drive.google.com/drive/folders/1AmdL3eeiTzEbm_-F-Hn1QP2lEqf2jux2"
+  },
+  {
+    "cid": "MTH201",
+    "cname": "LINEAR ALGEBRA",
+    "link": "https://drive.google.com/drive/folders/1PR0f6dDD8--h-_2psNCJLloyDziLZRSB"
+  },
+  {
+    "cid": "MTH611",
+    "cname": "ALGEBRA II",
+    "link": "https://drive.google.com/drive/folders/1Bhny2p2dyFTpyAMaSX7TgZufyE3TaMx5"
+  },
+  {
+    "cid": "MTH641",
+    "cname": "INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATION THEORY",
+    "link": "https://drive.google.com/drive/folders/1atkalMkMLBtWeo9fDMQQXbGvPWO4d2yV"
+  },
+  {
     "cid": "CS664",
     "cname": "IOT SYSTEM DESIGN",
     "link": "https://drive.google.com/drive/folders/1QKgB1ICA3glPB4Ifn4U8JpFdcmmIv1No"
@@ -273,5 +293,45 @@
     "cid": "ME630",
     "cname": "COMPUTATIONAL FLUID DYNAMICS AND HEAT TRANSFER",
     "link": "https://drive.google.com/drive/folders/1EUo2-R0JOxjU3SDgUuaG4Awe2U0Gca4w"
+  },
+  {
+    "cid": "CGS602",
+    "cname": "BASIC STATISTICS DATA ANALYSIS & INFERENCE",
+    "link": "https://drive.google.com/drive/folders/1fOF9DvBifNiCuJ9A_1oEUUsMPhob2Aoc"
+  },
+  {
+    "cid": "EE614",
+    "cname": "SOLID STATE DEVICES I",
+    "link": "https://drive.google.com/drive/folders/14uHZAL_NHbyD1C-HIvF0N7M7Q7ai8_j-"
+  },
+  {
+    "cid": "MSO201",
+    "cname": "PROBABILITY AND STATISTICS",
+    "link": "https://drive.google.com/drive/folders/1PDVGUxmoAXa-9MG2QLRw0nHP5AjusuNZ"
+  },
+  {
+    "cid": "TA202",
+    "cname": "MANUFACTURING PROCESSES II",
+    "link": "https://drive.google.com/drive/folders/1UqY7DZwFVsftyP-4E7Wutj6iXyCiKObk"
+  },
+  {
+    "cid": "PSO201",
+    "cname": "QUANTUM PHYSICS",
+    "link": "https://drive.google.com/drive/folders/1v9VRZ8QY_P7tegybu5g8UC03iHQjVayO"
+  },
+  {
+    "cid": "PHY210",
+    "cname": "THERMAL PHYSICS",
+    "link": "https://drive.google.com/drive/folders/1HKijTkMrtm3YRJ5Vw3X7IjLVFm9Mx9N7"
+  },
+  {
+    "cid": "PHY103",
+    "cname": "PHYSICS - II",
+    "link": "https://drive.google.com/drive/folders/1A0EN9cfF3UjIcbXQgv8KSVevHFXfveba"
+  },
+  {
+    "cid": "MTH425",
+    "cname": "DISTRIBUTIONS THEORY IN STATISTICS",
+    "link": "https://drive.google.com/drive/folders/10V3wAqUtLMjQ-1Z3XPgmmivEGeUwOebn"
   }
 ]

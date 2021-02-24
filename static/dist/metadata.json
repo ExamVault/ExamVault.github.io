@@ -1,5 +1,10 @@
 [
   {
+    "cid": "ECO764",
+    "cname": "FINANCIAL ECONOMETRICS",
+    "link": "https://drive.google.com/drive/folders/1bINgZtze7INpAGMzPnY8qoORkZ8JDmdM"
+  },
+  {
     "cid": "IME602",
     "cname": "PROBABILITY AND STATISTICS",
     "link": "https://drive.google.com/drive/folders/10vWhcALMSZHG_g4KkYONnMHI6TEXJqWx"
@@ -393,5 +398,10 @@
     "cid": "ESC201",
     "cname": "INTRODUCTION TO ELECTRONICS",
     "link": "https://drive.google.com/drive/folders/1gyCWal8-v_7Hr8lkJE54gYggbOZUeQK4"
+  },
+  {
+    "cid": "IME634",
+    "cname": "MANAGEMENT DECISION ANALYSIS",
+    "link": "https://drive.google.com/drive/folders/1wJuWk5P8Sfa1Yo8RK-QifQthOoMg3fcC"
   }
 ]

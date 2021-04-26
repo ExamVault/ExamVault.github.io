@@ -1,105 +1,5 @@
 [
   {
-    "cid": "CHE352",
-    "cname": "CHEMICAL PROCESS SIMULATION LAB",
-    "link": "https://drive.google.com/drive/folders/1d62r9g5BkorUuiStz5CVEuW17np42R9W"
-  },
-  {
-    "cid": "CSO201",
-    "cname": "ORGANIC CHEMISTRY: FUNDAMENTALS AND APPLICATIONS",
-    "link": "https://drive.google.com/drive/folders/1Rg40P9tBCUHpaziDqAAc8q9OwCTnFfJC"
-  },
-  {
-    "cid": "CHE381",
-    "cname": "PROCESS DYNAMICS AND CONTROL",
-    "link": "https://drive.google.com/drive/folders/1NgYLCDIQEFAD_pImvoGk9SC0870zXhgu"
-  },
-  {
-    "cid": "ECO764",
-    "cname": "FINANCIAL ECONOMETRICS",
-    "link": "https://drive.google.com/drive/folders/1bINgZtze7INpAGMzPnY8qoORkZ8JDmdM"
-  },
-  {
-    "cid": "IME602",
-    "cname": "PROBABILITY AND STATISTICS",
-    "link": "https://drive.google.com/drive/folders/10vWhcALMSZHG_g4KkYONnMHI6TEXJqWx"
-  },
-  {
-    "cid": "IME605",
-    "cname": "OPERATIONS RESEARCH FOR MANAGEMENT",
-    "link": "https://drive.google.com/drive/folders/1aq0lAk7yzgddwTVGSYXKKBMRhTk5ghSl"
-  },
-  {
-    "cid": "CHE312",
-    "cname": "HEAT TRANSFER & ITS APPLICATIONS",
-    "link": "https://drive.google.com/drive/folders/14c25QAyGQm7Nn-XYIMbQwFSX0gXPxOeH"
-  },
-  {
-    "cid": "CHE331",
-    "cname": "CHEMICAL REACTION ENGINEERING",
-    "link": "https://drive.google.com/drive/folders/1wyZ8MXbDA_0P60KH9KM7q-Cqj2Pb4PCO"
-  },
-  {
-    "cid": "CHE313",
-    "cname": "MASS TRANSFER & ITS APPLICATIONS",
-    "link": "https://drive.google.com/drive/folders/1MkUgwSr33AiVOmFDbj07_5oBrEGhSlOM"
-  },
-  {
-    "cid": "ESO205",
-    "cname": "NATURE AND PROPERTIES OF MATERIALS",
-    "link": "https://drive.google.com/drive/folders/1sgUuBu6iZl4egtTUrDY4C8QQ-s3NLMwQ"
-  },
-  {
-    "cid": "CS253",
-    "cname": "SOFTWARE DEVELOPMENT AND OPERATIONS",
-    "link": "https://drive.google.com/drive/folders/1g2sb5uBUN8-se4hIJQdlkqyX-SwFcuhI"
-  },
-  {
-    "cid": "ESO206",
-    "cname": "PRINCIPLES OF BIOTECHNOLOGY",
-    "link": "https://drive.google.com/drive/folders/1mj2j1oE628GNDkWPCa0fz4gvCx_hYB_D"
-  },
-  {
-    "cid": "CHM102",
-    "cname": "GENERAL CHEMISTRY",
-    "link": "https://drive.google.com/drive/folders/1H2GMvjL49_ByQ5v6jSehCjYcMFk98w11"
-  },
-  {
-    "cid": "MTH204",
-    "cname": "ABSTRACT ALGEBRA",
-    "link": "https://drive.google.com/drive/folders/1AmdL3eeiTzEbm_-F-Hn1QP2lEqf2jux2"
-  },
-  {
-    "cid": "MTH201",
-    "cname": "LINEAR ALGEBRA",
-    "link": "https://drive.google.com/drive/folders/1PR0f6dDD8--h-_2psNCJLloyDziLZRSB"
-  },
-  {
-    "cid": "MTH611",
-    "cname": "ALGEBRA II",
-    "link": "https://drive.google.com/drive/folders/1Bhny2p2dyFTpyAMaSX7TgZufyE3TaMx5"
-  },
-  {
-    "cid": "MTH641",
-    "cname": "INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATION THEORY",
-    "link": "https://drive.google.com/drive/folders/1atkalMkMLBtWeo9fDMQQXbGvPWO4d2yV"
-  },
-  {
-    "cid": "CS664",
-    "cname": "IOT SYSTEM DESIGN",
-    "link": "https://drive.google.com/drive/folders/1QKgB1ICA3glPB4Ifn4U8JpFdcmmIv1No"
-  },
-  {
-    "cid": "MSE304",
-    "cname": "PRINCIPLES OF METAL EXTRACTION & REFINING",
-    "link": "https://drive.google.com/drive/folders/1G51-nsrU9rgqzgrOnhjxlsMiu_oNiIeU"
-  },
-  {
-    "cid": "MSE303",
-    "cname": "ELECTRONIC & MAGNETIC PROPERTIES OF MATERIALS",
-    "link": "https://drive.google.com/drive/folders/19_JgeaNSh6x5ey3zAhmlvrgthZ5RFR6V"
-  },
-  {
     "cid": "MSE302",
     "cname": "MECHANICAL BEHAVIOUR OF MATERIALS",
     "link": "https://drive.google.com/drive/folders/16rHWj8xLA_K6FnKMYsDJ-gWS7HdR0ylE"
@@ -123,11 +23,6 @@
     "cid": "BSE655",
     "cname": "PHYSIOLOGY",
     "link": "https://drive.google.com/drive/folders/1bMZXVo-Jx4IJNhemsVQnQFeUPcoJBJXx"
-  },
-  {
-    "cid": "MTH101",
-    "cname": "MATHEMATICS I",
-    "link": "https://drive.google.com/drive/folders/1y76l2f1tIcjZnNA1bhYHLZ7MrOGsMtU4"
   },
   {
     "cid": "CS203",
@@ -423,5 +318,130 @@
     "cid": "MSE624",
     "cname": "ENERGY MATERIALS AND TECHNOLOGIES",
     "link": "https://drive.google.com/drive/folders/1qCc6E3OPvAeLAJDyWNECpnXwGEAKecyY"
+  },
+  {
+    "cid": "MBA664",
+    "cname": "SUPPLY CHAIN MANAGEMENT",
+    "link": "https://drive.google.com/drive/folders/1TuPOGuEJOAIJQ66PozlyRXjCV3qZxRNp"
+  },
+  {
+    "cid": "ME301",
+    "cname": "ENERGY SYSTEMS I",
+    "link": "https://drive.google.com/drive/folders/1jof7HvxJgI29PuJtEhwUnlbxN-fxBAcw"
+  },
+  {
+    "cid": "SOC473",
+    "cname": "INDIAN SOCIETY AND CULTURE",
+    "link": "https://drive.google.com/drive/folders/1mMndvUrlX1xLOfNNMPEC2uptxaZdZy86"
+  },
+  {
+    "cid": "MTH101",
+    "cname": "MATHEMATICS I",
+    "link": "https://drive.google.com/drive/folders/1RBy80B2An1-XF91cPdHVvmX2krtLDJkz"
+  },
+  {
+    "cid": "PHY553",
+    "cname": "ELECTROMAGNETIC THEORY II",
+    "link": "https://drive.google.com/drive/folders/1FP5E7DTC5SE26G1E053ze3zcGpRuGQMw"
+  },
+  {
+    "cid": "MSE303",
+    "cname": "ELECTRONIC & MAGNETIC PROPERTIES OF MATERIALS",
+    "link": "https://drive.google.com/drive/folders/19_JgeaNSh6x5ey3zAhmlvrgthZ5RFR6V"
+  },
+  {
+    "cid": "MSE304",
+    "cname": "PRINCIPLES OF METAL EXTRACTION & REFINING",
+    "link": "https://drive.google.com/drive/folders/1G51-nsrU9rgqzgrOnhjxlsMiu_oNiIeU"
+  },
+  {
+    "cid": "CS664",
+    "cname": "IOT SYSTEM DESIGN",
+    "link": "https://drive.google.com/drive/folders/1QKgB1ICA3glPB4Ifn4U8JpFdcmmIv1No"
+  },
+  {
+    "cid": "MTH641",
+    "cname": "INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATION THEORY",
+    "link": "https://drive.google.com/drive/folders/1atkalMkMLBtWeo9fDMQQXbGvPWO4d2yV"
+  },
+  {
+    "cid": "MTH611",
+    "cname": "ALGEBRA II",
+    "link": "https://drive.google.com/drive/folders/1Bhny2p2dyFTpyAMaSX7TgZufyE3TaMx5"
+  },
+  {
+    "cid": "MTH201",
+    "cname": "LINEAR ALGEBRA",
+    "link": "https://drive.google.com/drive/folders/1PR0f6dDD8--h-_2psNCJLloyDziLZRSB"
+  },
+  {
+    "cid": "MTH204",
+    "cname": "ABSTRACT ALGEBRA",
+    "link": "https://drive.google.com/drive/folders/1AmdL3eeiTzEbm_-F-Hn1QP2lEqf2jux2"
+  },
+  {
+    "cid": "CHM102",
+    "cname": "GENERAL CHEMISTRY",
+    "link": "https://drive.google.com/drive/folders/1H2GMvjL49_ByQ5v6jSehCjYcMFk98w11"
+  },
+  {
+    "cid": "ESO206",
+    "cname": "PRINCIPLES OF BIOTECHNOLOGY",
+    "link": "https://drive.google.com/drive/folders/1mj2j1oE628GNDkWPCa0fz4gvCx_hYB_D"
+  },
+  {
+    "cid": "CS253",
+    "cname": "SOFTWARE DEVELOPMENT AND OPERATIONS",
+    "link": "https://drive.google.com/drive/folders/1g2sb5uBUN8-se4hIJQdlkqyX-SwFcuhI"
+  },
+  {
+    "cid": "ESO205",
+    "cname": "NATURE AND PROPERTIES OF MATERIALS",
+    "link": "https://drive.google.com/drive/folders/1sgUuBu6iZl4egtTUrDY4C8QQ-s3NLMwQ"
+  },
+  {
+    "cid": "CHE313",
+    "cname": "MASS TRANSFER & ITS APPLICATIONS",
+    "link": "https://drive.google.com/drive/folders/1MkUgwSr33AiVOmFDbj07_5oBrEGhSlOM"
+  },
+  {
+    "cid": "CHE331",
+    "cname": "CHEMICAL REACTION ENGINEERING",
+    "link": "https://drive.google.com/drive/folders/1wyZ8MXbDA_0P60KH9KM7q-Cqj2Pb4PCO"
+  },
+  {
+    "cid": "CHE312",
+    "cname": "HEAT TRANSFER & ITS APPLICATIONS",
+    "link": "https://drive.google.com/drive/folders/14c25QAyGQm7Nn-XYIMbQwFSX0gXPxOeH"
+  },
+  {
+    "cid": "IME605",
+    "cname": "OPERATIONS RESEARCH FOR MANAGEMENT",
+    "link": "https://drive.google.com/drive/folders/1aq0lAk7yzgddwTVGSYXKKBMRhTk5ghSl"
+  },
+  {
+    "cid": "IME602",
+    "cname": "PROBABILITY AND STATISTICS",
+    "link": "https://drive.google.com/drive/folders/10vWhcALMSZHG_g4KkYONnMHI6TEXJqWx"
+  },
+  {
+    "cid": "ECO764",
+    "cname": "FINANCIAL ECONOMETRICS",
+    "link": "https://drive.google.com/drive/folders/1bINgZtze7INpAGMzPnY8qoORkZ8JDmdM"
+  },
+  {
+    "cid": "CHE381",
+    "cname": "PROCESS DYNAMICS AND CONTROL",
+    "link": "https://drive.google.com/drive/folders/1NgYLCDIQEFAD_pImvoGk9SC0870zXhgu"
+  },
+  {
+    "cid": "CSO201",
+    "cname": "ORGANIC CHEMISTRY: FUNDAMENTALS AND APPLICATIONS",
+    "link": "https://drive.google.com/drive/folders/1Rg40P9tBCUHpaziDqAAc8q9OwCTnFfJC"
+  },
+  {
+    "cid": "CHE352",
+    "cname": "CHEMICAL PROCESS SIMULATION LAB",
+    "link": "https://drive.google.com/drive/folders/1d62r9g5BkorUuiStz5CVEuW17np42R9W"
   }
 ]
